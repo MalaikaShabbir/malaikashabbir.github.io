@@ -1,5 +1,4 @@
-## Hello and Welcome!
-
+## Hello and Welcome!\
 I'm Malaika Shabbir, a Computer Science graduate and Gold Medalist with hands-on experience in AI, machine learning, and data science. I love building intelligent systems, leading innovative projects, and finding smart solutions to real-world challenges. My passion lies in using AI to drive efficiency and make a meaningful impact.
 ---
 
