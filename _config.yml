@@ -4,5 +4,5 @@ logo: doc/assets/08e55993-deb4-40fd-ad90-639313b795e6 (1).jpg
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-show_downloads: "true" 
+#show_downloads: "true" 
 #google_analytics: [Your Google Analytics tracking ID]
