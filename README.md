@@ -1,5 +1,4 @@
 ## Hello and welcome!
-
 I'm Malaika Shabbir, a Computer Science graduate and Gold Medalist with hands-on experience in AI, machine learning, and data science. I love building intelligent systems, leading innovative projects, and finding smart solutions to real-world challenges. My passion lies in using AI to drive efficiency and make a meaningful impact.
 ---
 
@@ -8,15 +7,6 @@ I'm Malaika Shabbir, a Computer Science graduate and Gold Medalist with hands-on
 **University of Haripur**  
 _Bachelor's Degree in Computer Science_  
 09/2020 – 07/2024 | CGPA: 3.97/4.0 | Haripur, Pakistan
-
-**Base College (Federal Board)**  
-_HSSC, FSC (Pre Engineering)_  
-Marks: 746/1100 | Wah Cantt, Pakistan
-
-**F.G Girls High School No.1 (Federal Board)**  
-_SSC, Matric (Science Subjects)_  
-Marks: 828/1100 | Wah Cantt, Pakistan
-
 ---
 
 ## Experience
