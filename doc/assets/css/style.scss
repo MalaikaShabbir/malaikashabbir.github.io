@@ -1,1 +1,75 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// ====== Custom Professional Styling ====== //
+
+// Body and font improvements
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #2c3e50;
+  background-color: #f9f9f9;
+  line-height: 1.7;
+}
+
+// Header style
+header {
+  background-color: #fff;
+  border-bottom: 1px solid #e1e4e8;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+header h1, header h2 {
+  color: #1a1a1a;
+}
+
+// Links
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+// Code blocks
+pre, code {
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  padding: 5px 8px;
+  font-size: 90%;
+}
+
+// Footer
+footer {
+  background-color: #fff;
+  color: #777;
+  padding: 20px;
+  font-size: 0.85em;
+  text-align: center;
+  border-top: 1px solid #eee;
+}
+
+// Buttons (if needed)
+.button {
+  background-color: #007acc;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.button:hover {
+  background-color: #005fa3;
+}
+
+// Custom sections
+.section-title {
+  font-size: 1.8em;
+  margin-top: 2em;
+  border-bottom: 2px solid #0366d6;
+  padding-bottom: 5px;
+  color: #333;
+}
 
