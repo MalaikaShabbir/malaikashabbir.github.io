@@ -7,6 +7,7 @@ I'm Malaika Shabbir, a Computer Science graduate and Gold Medalist with hands-on
 **University of Haripur**  
 _Bachelor's Degree in Computer Science_  
 09/2020 – 07/2024 | CGPA: 3.97/4.0 | Haripur, Pakistan
+
 ---
 
 ## Experience
